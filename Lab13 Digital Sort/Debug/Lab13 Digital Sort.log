@@ -1,0 +1,5 @@
+﻿  spis_func.cpp
+  Source.cpp
+c:\users\alexey_der\source\repos\siaod\lab13 digital sort\lab13 digital sort\source.cpp(82): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Lab13 Digital Sort.vcxproj -> C:\Users\Alexey_Der\source\repos\SiAOD\Lab13 Digital Sort\Debug\Lab13 Digital Sort.exe

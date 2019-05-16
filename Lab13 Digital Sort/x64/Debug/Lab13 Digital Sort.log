@@ -1,0 +1,6 @@
+﻿  spis_func.cpp
+  Source.cpp
+c:\users\alexey_der\source\repos\siaod\lab13 digital sort\lab13 digital sort\source.cpp(45): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+Source.obj : error LNK2019: unresolved external symbol "struct SList * __cdecl IncQueue(struct SList * &,struct SList * &,int)" (?IncQueue@@YAPEAUSList@@AEAPEAU1@0H@Z) referenced in function main
+C:\Users\Alexey_Der\source\repos\SiAOD\Lab13 Digital Sort\x64\Debug\Lab13 Digital Sort.exe : fatal error LNK1120: 1 unresolved externals
